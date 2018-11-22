@@ -1,0 +1,111 @@
+.jumbotron {
+ background-image: url('school.jpg');
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 350px;
+ margin-top: 20px;
+ text-align: center;
+
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  color: white;
+  height: 350px;
+  font-size: x-large;
+
+}
+
+.big {
+	font-size: xx-large;
+	letter-spacing: 0.0625em;
+}
+
+.color {
+	letter-spacing: 0.0625em;
+}
+
+.button {
+
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 6px;
+  border: 0;
+  font-weight: bold;
+  letter-spacing: 0.0625em;
+  text-transform: uppercase;
+  background: #615f8b;
+  color: #fff;
+  font-size: medium;
+}
+/* Add a rollover background colour but keep the text white */
+.button:hover,
+.button:focus,
+.button:active {
+  background: #b7b6cd;
+  color: #fff;
+}
+
+section {
+	display: flex;
+	background-color: #eeeeee;
+	text-align: center;
+	
+}
+
+section p {
+	font-size: 1em;
+	line-height: auto;
+}
+
+#prems {
+	
+	font-family: "Tahoma", Arial, sans-serif;
+  	text-align: center;
+  	margin: auto;
+  
+
+}
+
+#deus {
+	
+  	font-family: "Tahoma", Arial, sans-serif;
+  	text-align: center;
+  	margin: auto;
+  	
+  	
+}
+
+#trois {
+	
+  	font-size: small;
+  	font-family: "Tahoma", Arial, sans-serif;
+  	text-align: center;
+  	margin: auto;
+  	  
+  	
+}
+
+footer {
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+
+body {
+	letter-spacing: 0.0625em;
+}
+
+.icone {
+	width: 5em;
+	height: 5em; 
+}
+
