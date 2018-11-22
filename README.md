@@ -1,4 +1,4 @@
-# L'ÉCOLE POUR TOUS
+# L'ÉCOLE POUR TOUS :school_satchel:
 
 > El Karch Chaïma et Madoni Sonia
 
