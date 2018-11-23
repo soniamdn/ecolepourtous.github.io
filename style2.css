@@ -10,6 +10,15 @@
 
 }
 
+h1 {
+  padding: 0 535px;
+}
+
+.left {
+       padding: 0 445px;
+}
+
+
 .container {
   width: 100%;
   padding-right: 15px;
@@ -23,12 +32,12 @@
 }
 
 .big {
-	font-size: xx-large;
-	letter-spacing: 0.0625em;
+        font-size: xx-large;
+        letter-spacing: 0.0625em;
 }
 
 .color {
-	letter-spacing: 0.0625em;
+        letter-spacing: 0.0625em;
 }
 
 .button {
@@ -53,59 +62,94 @@
 }
 
 section {
-	display: flex;
-	background-color: #eeeeee;
-	text-align: center;
-	
+        display: flex;
+        background-color: #eeeeee;
+        text-align: center;
+
 }
 
 section p {
-	font-size: 1em;
-	line-height: auto;
+        font-size: 1em;
+        line-height: auto;
 }
 
 #prems {
-	
-	font-family: "Tahoma", Arial, sans-serif;
-  	text-align: center;
-  	margin: auto;
+
+        font-family: "Tahoma", Arial, sans-serif;
+        padding-left: 0 10px;
+        margin-left: 0px ;
+        
+
+}
+
+#deus {
+
+        font-family: "Tahoma", Arial, sans-serif;
+        text-align: center;
+        margin-left: 5px ;
+
+
+}
+
+#trois {
+
+        font-size: small;
+        font-family: "Tahoma", Arial, sans-serif;
+        text-align: center;
+        margin-left: 5px;
+        margin-right: 10px;
+
+
+}
+
+footer {
+        text-align: center;
+}
+
+.center {
+        text-align: center;
+}
+
+body {
+        letter-spacing: 0.0625em;
+}
+.icone {
+  width: 5em;
+  height: 5em;
+  margin-top: 50px;
+}
+section {
+  padding: 0 100px
+}
+
+
+p 
+  {
+   padding: 0 100px;
+}
+
+  #prems {
+  
+  font-family: "Tahoma", Arial, sans-serif;
+    text-align: center;
+    margin: auto;
   
 
 }
 
 #deus {
-	
-  	font-family: "Tahoma", Arial, sans-serif;
-  	text-align: center;
-  	margin: auto;
-  	
-  	
+  
+    font-family: "Tahoma", Arial, sans-serif;
+    text-align: center;
+    margin: auto;
+    
+    
 }
 
 #trois {
-	
-  	font-size: small;
-  	font-family: "Tahoma", Arial, sans-serif;
-  	text-align: center;
-  	margin: auto;
-  	  
-  	
-}
-
-footer {
-	text-align: center;
-}
-
-.center {
-	text-align: center;
-}
-
-body {
-	letter-spacing: 0.0625em;
-}
-
-.icone {
-	width: 5em;
-	height: 5em; 
-}
-
+  
+    font-size: small;
+    font-family: "Tahoma", Arial, sans-serif;
+    text-align: center;
+    margin: auto;
+      
